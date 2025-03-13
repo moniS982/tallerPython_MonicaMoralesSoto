@@ -2,7 +2,7 @@
 ![](https://www.python.org/static/img/python-logo.png)
 
 ## "Python no es solo un lenguaje, es una llave que abre puertas a infinitas posibilidades. ¡Atrévete a crear tu propio futuro!"
-#### [Guido Van Rossum, crador de Python](https://es.wikipedia.org/wiki/Guido_van_Rossum)
+#### [Guido Van Rossum, creador de Python](https://es.wikipedia.org/wiki/Guido_van_Rossum)
 
 ### [Portal Web Taller de Python](https://sites.google.com/view/isctallerpython/inicio)
 
