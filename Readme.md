@@ -59,8 +59,8 @@
 
 ### Calificaciones de los Retos
 
-Reto | Publicado | Entrega  | Título            | Calificación
----- |-----------|----------|-------------------|-----------
-  1  | 12/03/25  | 16/03/25 | Adivina el número |
-  2  | 19/03/25  | 23/03/25 |                   |
+Reto | Publicado | Entrega  | Título            | Calificación | Observaciones                 |
+---- |-----------|----------|-------------------|--------------|-------------------------------|
+  1  | 12/03/25  | 16/03/25 | Adivina el número |90            | Aun no hemos visto Excepciones|
+  2  | 19/03/25  | 23/03/25 |                   |70            | Marcó un error al ejecutarlo  |
 
